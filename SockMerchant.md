@@ -1,7 +1,5 @@
-[Question](https://www.hackerrank.com/challenges/sock-merchant/problem)
-
+[Read Sock Merchant Question](https://www.hackerrank.com/challenges/sock-merchant/problem)
 ### 1. Java Solution1:
-
 ```java
 import java.io.*;
 import java.math.*;
@@ -60,7 +58,6 @@ public class SockMerchant {
 }
 ```
 ### 1. Java Solution2:
-
 ```java
 import java.io.*;
 import java.math.*;
